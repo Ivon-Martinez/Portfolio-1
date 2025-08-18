@@ -1,5 +1,5 @@
 
-// Loader fade-out effect on page load
+// Loader fade-out effect on page load.
 
 $(window).on("load", function(){
   $(".loader .inner").fadeOut(700, function(){
